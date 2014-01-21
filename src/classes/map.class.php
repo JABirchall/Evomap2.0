@@ -164,7 +164,7 @@ class map {
 		$xCoord = new \Kendo\UI\GridColumn();
 		$xCoord->field('x')
 		       ->title('xxx')
-		       ->width(40);
+		       ->width(42);
 
 		$yCoord = new \Kendo\UI\GridColumn();
 		$yCoord->field('y')
@@ -216,8 +216,10 @@ class map {
      		 ->dataSource($this->map_table_data())     
      		 ->sortable(true)
      		 ->groupable(true)
+     		 ->filterable(true)
+     		 ->columnMenu(true)
      		 ->pageable($pageable)
-     		 ->attr('style', 'height:380px');
+     		 ->attr('style', 'height:386px');
 
      	return $grid;
 	}
