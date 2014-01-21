@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 /* Main application */
 
 $i = NEW init(1);
-
+$DB = NEW database($DB_ip, $DB_database, $DB_user, $DB_password);
 $map = NEW map();
 if (!@$SID)
 {

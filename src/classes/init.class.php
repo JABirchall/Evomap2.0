@@ -9,13 +9,13 @@ class init
 		require_once("classes/database.class.php");
 		require_once("classes/map.class.php");
 		require_once("kendo/lib/Kendo/Autoload.php");
-		require_once("config.php");
+		
 		if($html != NULL){
 			require_once("header.php");
 			echo $this::build_menu();
 		}
 
-		$DB = NEW database($DB_ip, $DB_database, $DB_user, $DB_password);
+		
 	}
 
 	/* KendoUI Menu function */
@@ -51,4 +51,4 @@ class init
 	}
 
 }
-
+require_once("config.php");

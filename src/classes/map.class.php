@@ -164,47 +164,47 @@ class map {
 		$xCoord = new \Kendo\UI\GridColumn();
 		$xCoord->field('x')
 		       ->title('xxx')
-		       ->width(42);
+		       ->width(65);
 
 		$yCoord = new \Kendo\UI\GridColumn();
 		$yCoord->field('y')
 		       ->title('yyy')
-		       ->width(40);
+		       ->width(65);
 
 		$lordName = new \Kendo\UI\GridColumn();
 		$lordName->field('lord_name')
 		         ->title('Lord Name')
-		         ->width(90);
+		         ->width(130);
 
 		$cityName = new \Kendo\UI\GridColumn();
 		$cityName->field('city_name')
 		         ->title('City')
-		         ->width(90);
+		         ->width(130);
 
 		$allainceName = new \Kendo\UI\GridColumn();
 		$allainceName->field('alliance')
 		             ->title('Allaince')
-		             ->width(90);
+		             ->width(130);
 
 		$cityStatus = new \Kendo\UI\GridColumn();
 		$cityStatus->field('status')
 		           ->title('Status')
-		           ->width(60);
+		           ->width(80);
 
 		$flagName = new \Kendo\UI\GridColumn();
 		$flagName->field('flag')
 		           ->title('Flag')
-		           ->width(50);
+		           ->width(80);
 
 		$playerHonor = new \Kendo\UI\GridColumn();
 		$playerHonor->field('honor')
 		            ->title('Horor')
-		            ->width(70);
+		            ->width(100);
 
 		$playerPrestige = new \Kendo\UI\GridColumn();
 		$playerPrestige->field('prestige')
 		               ->title('Prestige')
-		               ->width(70);
+		               ->width(100);
 
 		/* The long line of repeated code >.> */
 		$pageable = new Kendo\UI\GridPageable();
@@ -212,7 +212,7 @@ class map {
 		         ->pageSizes(true)
 		         ->buttonCount(5);
 
-		$grid->addColumn($xCoord, $yCoord, $lordName, $cityName, $allainceName, $cityStatus, $flagName, $playerHonor, $playerPrestige)
+		$grid->addColumn($xCoord, $yCoord, $lordName, $cityName, $allainceName, $cityStatus, $flagName, $playerPrestige, $playerHonor)
      		 ->dataSource($this->map_table_data())     
      		 ->sortable(true)
      		 ->groupable(true)
