@@ -1,6 +1,5 @@
 <?php
 
-
 class init
 {
 	/* This is what i use to load everything needed */
