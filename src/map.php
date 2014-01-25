@@ -23,8 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 $i = NEW init(1);
 $DB = NEW database($DB_ip, $DB_database, $DB_user, $DB_password);
 $map = NEW map();
-if (!@$SID)
-{
+if (!@$SID) {
 	echo "<h2>Evony Map</h2>" .$map->server_form();
 	var_dump($_POST);
 

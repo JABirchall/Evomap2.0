@@ -8,6 +8,7 @@ class init
 	{
 		require_once("classes/database.class.php");
 		require_once("classes/map.class.php");
+		require_once("classes/chat.class.php");
 		require_once("kendo/lib/Kendo/Autoload.php");
 		
 		if($html != NULL){

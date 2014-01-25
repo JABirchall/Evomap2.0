@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"data",
+				"dataSource"
+			],
+			[
+				"pla",
+				"playerPrestige"
+			],
+			[
+				"play",
+				"playerHonor"
+			],
+			[
+				"fla",
+				"flagName"
+			],
+			[
+				"city",
+				"cityName"
+			],
+			[
+				"allinace",
+				"allianceName"
+			],
+			[
+				"Prestig",
+				"prestigeField"
+			],
+			[
+				"status",
+				"statusField"
+			],
+			[
+				"alliance",
+				"allianceField"
+			],
+			[
+				"Lord",
+				"lordField"
+			],
+			[
+				"pre",
+				"prestigeField"
+			],
+			[
+				"hon",
+				"honorField"
+			],
+			[
+				"flag",
+				"flagField"
+			],
+			[
+				"statu",
+				"statusField"
+			],
+			[
+				"cit",
+				"cityField"
+			],
+			[
+				"lord",
+				"lordField"
+			],
+			[
 				"Seria",
 				"serialized"
 			],
@@ -15,13 +79,53 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/John/Documents/minbash/src/General/FpsCounter.as",
+			"settings":
+			{
+				"buffer_size": 2507,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/John/Documents/minbash/src/General/Input.as",
+			"settings":
+			{
+				"buffer_size": 7334,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/John/Desktop/Injector/settings.xml",
+			"settings":
+			{
+				"buffer_size": 881,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/John/Desktop/Pbot/de.bat",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"commn",
+				"Toggle Block Comment"
+			],
 			[
 				"json",
 				"Set Syntax: JSON"
@@ -48,13 +152,84 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/map/header.php",
-		"/C/xampp/htdocs/map/footer.php",
-		"/C/xampp/htdocs/map/classes/init.class.php",
+		"/C/Blaze_master/blazeserver/etc/blaze.boot",
+		"/C/Users/John/Documents/minbash/src/General/FRateLimiter.as",
+		"/C/Users/John/Documents/minbash/src/fl/events/ComponentEvent.as",
+		"/C/Users/John/Documents/FD Trillix/Converted on 2014-01-24/minibash.swf.flex/src/Button_downSkin.as",
+		"/C/Users/John/Downloads/zynga/PAGE/Texas HoldEm Poker on Facebook.htm",
+		"/C/Blaze_master/blazeserver/bin/deploy",
+		"/C/Blaze_master/blazeserver/bin/configure",
+		"/C/Blaze_master/blazeserver/bin/mkvers.sh",
+		"/C/Blaze_master/blazeserver/bin/setenv.sh",
+		"/C/Users/John/Documents/FD Trillix/Converted on 2014-01-24/minibash.swf.flex/src/NBGame/NBWinnings.as",
+		"/C/Blaze_master/blazeserver/etc/master.boot",
+		"/C/Blaze_master/blazeserver/bin/master",
+		"/C/Blaze_master/blazeserver/bin/server",
+		"/C/Blaze_master/blazeserver/log/status.log",
+		"/C/Users/John/Desktop/Infistar/AHconfig.sqf",
+		"/C/Users/John/Desktop/Infistar/AH.sqf",
+		"/C/Blaze_master/blazeserver/log/blaze_master.log",
+		"/C/Blaze_master/blazeserver/log/blaze_slave.log",
+		"/C/Blaze_master/blazeserver/bin/runserver",
+		"/C/Blaze_master/blazeserver/bin/runblaze",
+		"/C/Blaze_master/blazeserver/etc/blazeserver.bat",
+		"/C/Users/John/Downloads/17515",
+		"/C/Blaze master/blazeserver/etc/blazeserver.bat",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/etc/blaze.boot",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/etc/slave.boot",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/etc/aux1.boot",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/etc/master.boot",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/etc/blazeserver.bat",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/bin/waltest/WAL_createAccount.py",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/bin/waltest/unitTest.py",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/bin/server.cfg",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/framework/user/db/mysql/010_user.sql",
+		"/C/Users/John/Desktop/ZBOT v8.3/blind.txt",
+		"/C/Users/John/Desktop/ZBOT v8.3/data/table.txt",
+		"/C/Users/John/Desktop/ZBOT v8.3/data/playturn.ini",
+		"/C/Users/John/Desktop/ZBOT v8.3/includes/vendor/Tesseract/tessdata/eng.word-dawg",
+		"/C/Users/John/Desktop/ZBOT v8.3/includes/vendor/Tesseract/tessdata/eng.user-words",
+		"/C/Users/John/Desktop/ZBOT v8.3/TBot.ini",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/bin/configure",
+		"/C/Users/John/Desktop/ZBOT v8.3/settings.ini",
+		"/C/xampp/htdocs/map/market.php",
+		"/C/xampp/htdocs/map/cap.php",
+		"/C/Users/John/Documents/EA/Blaze master/blazeserver/bin/cfgtest",
+		"/C/Users/John/Desktop/ZBOT v8.3/roomz/4077941875.txt",
 		"/C/xampp/htdocs/map/about.php",
-		"/C/xampp/htdocs/map/classes/map.class.php",
+		"/C/xampp/htdocs/map/config.php",
 		"/C/xampp/htdocs/map/map.php",
+		"/C/xampp/htdocs/map/classes/init.class.php",
+		"/C/xampp/htdocs/map/chat.php",
+		"/C/xampp/htdocs/map/classes/chat.class.php",
+		"/C/xampp/htdocs/map/classes/map.class.php",
+		"/C/xampp/htdocs/vb/packages/vbforum/bbcodehelper/table.php",
+		"/C/xampp/htdocs/vb/includes/class_bbcode_alt.php",
+		"/C/xampp/htdocs/vb/includes/class_bbcode.php",
+		"/C/xampp/htdocs/vb/admincp/bbcode.php",
+		"/C/xampp/htdocs/vb/forumrunner/support/stringparser_bbcode.class.php",
+		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/ZBOT V8.3_.au3",
+		"/C/xampp/htdocs/vb/clientscript/ieprompt.html",
+		"/C/xampp/htdocs/vb/clientscript/yui/README",
+		"/C/xampp/htdocs/vb/xmlsitemap.php",
+		"/C/xampp/htdocs/vb/printthread.php",
+		"/C/xampp/htdocs/vb/clientscript/ckeditor/ckeditor_php5.php",
+		"/C/xampp/htdocs/vb/includes/api/1/content.php",
+		"/C/xampp/htdocs/vb/includes/api/1/ajax_dismissnotice.php",
+		"/C/xampp/htdocs/vb/includes/config.php",
+		"/C/xampp/htdocs/vb/includes/api/class_api.php",
+		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/data/action/action.ini",
+		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/decompile.bat",
+		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/De ob/Beispiel_deobfuscated.au3",
+		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/De ob/Beispiel_obfuscated.au3",
+		"/C/xampp/htdocs/map/kendo/content/js/kendo.all.min.js",
+		"/C/xampp/htdocs/map/header.php",
 		"/C/xampp/htdocs/map/index.php",
+		"/C/xampp/slimblog/public/index.php",
+		"/C/xampp/htdocs/map/kendo/lib/DataSourceResult.php",
+		"/C/xampp/htdocs/map/classes/database.class.php",
+		"/C/xampp/htdocs/map/footer.php",
+		"/C/xampp/htdocs/map/kendo/content/shared/styles/examples-offline.css",
 		"/C/Users/John/Documents/php/KendoUI/wrappers/php/include/header.php",
 		"/C/xampp/htdocs/map/kendo/web/menu/api.php",
 		"/C/xampp/htdocs/map/kendo/include/footer.php",
@@ -67,7 +242,6 @@
 		"/C/xampp/htdocs/map/classes/html.class.php",
 		"/C/xampp/htdocs/map/files/CreateStructure.sql",
 		"/C/xampp/htdocs/map/files/SampleData.sql",
-		"/C/xampp/htdocs/map/classes/database.class.php",
 		"/C/xampp/htdocs/map/files/convert.php",
 		"/C/xampp/htdocs/map/kendo/lib/Kendo/Html/Element.php",
 		"/C/xampp/htdocs/map/kendo/lib/Kendo/Template.php",
@@ -91,8 +265,6 @@
 		"/C/Users/John/Documents/php/Evo_account/server.php",
 		"/C/Users/John/Documents/php/Evo_account/client.php",
 		"/C/Users/John/Documents/php/Evo_account/decode.php",
-		"/C/Users/John/Desktop/ZBOT v8.3/TBot.ini",
-		"/C/Users/John/Desktop/ZBOT v8.3/settings.ini",
 		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/C/Users/John/Documents/php/Evo_account/amfphp/core/amf/io/AMFBASESERIALIZER.PHP",
 		"/C/Users/John/Documents/php/Evo_account/amfphp/core/amf/io/AMFDeserializer.php",
@@ -107,75 +279,7 @@
 		"/C/xampp/slimblog/templates/default/a_posts.html",
 		"/C/xampp/apache/conf/httpd.conf",
 		"/C/xampp/apache/conf/extra/proxy-html.conf",
-		"/C/xampp/apache/conf/extra/httpd-userdir.conf",
-		"/C/xampp/apache/conf/extra/httpd-autoindex.conf",
-		"/C/xampp/slimblog/templates/default/404.html",
-		"/C/xampp/slimblog/templates/default/error.html",
-		"/C/xampp/slimblog/public/index.php",
-		"/C/xampp/Laravel_framework/laravel/helpers.php",
-		"/C/xampp/slimblog/public/css/custom.css",
-		"/C/xampp/Laravel_framework/public/index.php",
-		"/C/xampp/Laravel_framework/laravel/view.php",
-		"/C/xampp/Laravel_framework/laravel/section.php",
-		"/C/xampp/Laravel_framework/application/routes.php",
-		"/C/xampp/Laravel_framework/application/controllers/base.php",
-		"/C/xampp/Laravel_framework/application/models/user.php",
-		"/C/xampp/Laravel_framework/application/models/post.php",
-		"/C/xampp/Laravel_framework/application/controllers/home.php",
-		"/C/xampp/Laravel_framework/application/views/home.blade.php",
-		"/C/xampp/Laravel_framework/application/migrations/2012_07_28_024855_create_users.php",
-		"/C/xampp/slimblog/public/css/bootstrap-theme.css",
-		"/C/xampp/Laravel_framework/readme.md",
-		"/C/xampp/Laravel_framework/application/config/database.php",
-		"/C/xampp/slimblog/vendor/twig/twig/README.rst",
-		"/C/xampp/Laravel_framework/laravel/config.php",
-		"/C/xampp/Laravel_framework/public/.htaccess",
-		"/C/xampp/Laravel_framework/public/ - Copy.htaccess",
-		"/C/Users/John/git/Stuff/SCrypt/scrypt.php",
-		"/C/xampp/htdocs/crypt test/crypt.php",
-		"/C/xampp/slimblog/models/Settings.models.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/Console/SeedCommand.php",
-		"/C/Users/John/git/Stuff/SCrypt/class/scrypt.class.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/Connection.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/SqlServerConnection.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/MigrationServiceProvider.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/Grammar.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/ConnectionResolverInterface.php",
-		"/C/xampp/slimblog/vendor/illuminate/database/Illuminate/Database/ConnectionInterface.php",
-		"/C/xampp/slimblog/public/css/bootstrap.min.css",
-		"/C/xampp/slimblog/templates/default/a_user_new.html",
-		"/C/xampp/slimblog/templates/default/a_post_new.html",
-		"/C/xampp/slimblog/templates/default/success.html",
-		"/C/xampp/slimblog/routes/post.route.php",
-		"/C/xampp/slimblog/routes/admin.route.php",
-		"/C/xampp/slimblog/routes/base.route.php",
-		"/C/xampp/slimblog/composer.phar",
-		"/C/xampp/slimblog/public/.htaccess",
-		"/C/xampp/slimblog/composer.json",
-		"/C/xampp/slimblog/public/config.php",
-		"/C/xampp/slimblog/composer.lock",
-		"/C/xampp/slimblog/models/Posts.models.php",
-		"/C/xampp/slimblog/templates/default/login.html",
-		"/C/xampp/slimblog/libs/functions.php",
-		"/C/xampp/slimblog/models/Users.models.php",
-		"/C/xampp/slimblog/SQL/updates/update-2.sql",
-		"/C/xampp/slimblog/SQL/updates/update-3.sql",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/John/Documents/Emulator/Source/server/SupervisorServer.cfg",
-		"/C/xampp/slimblog/SQL/updates/update-1.sql",
-		"/C/xampp/slimblog/SQL/slimblog.sql",
-		"/C/xampp/htdocs/crypt test/output.txt",
-		"/C/xampp/htdocs/crypt test/td.json",
-		"/C/Users/John/git/cryptbin/src/class/paste.class.php",
-		"/C/xampp/htdocs/Framework/yii/framework/db/CDbConnection.php",
-		"/C/Users/John/git/cryptbin/src/class/database.class.php",
-		"/C/xampp/Laravel_framework/bundles/bob/classes/generators/view.php",
-		"/C/xampp/Laravel_framework/bundles/bob/classes/generators/controller.php",
-		"/C/xampp/Laravel_framework/bundles/bob/classes/generators/alias.php",
-		"/C/xampp/Laravel_framework/bundles/bob/classes/generator.php",
-		"/C/xampp/Laravel_framework/bundles/bootstrapper/buttons.php",
-		"/C/xampp/Laravel_framework/application/start.php",
-		"/C/xampp/Laravel_framework/laravel/redis.php"
+		"/C/xampp/apache/conf/extra/httpd-userdir.conf"
 	],
 	"find":
 	{
@@ -183,9 +287,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -193,6 +298,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".swf",
+			"ea.com",
+			"/*",
+			"17515",
+			"40000",
+			"9T",
+			"drag a column",
+			"read",
+			"k-menu",
 			"'",
 			">\n",
 			"Home",
@@ -262,8 +376,121 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/John/Documents/minbash/src/General/FpsCounter.as",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/John/Documents/minbash/src/General/Input.as",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/John/Desktop/Injector/settings.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/John/Desktop/Pbot/de.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -347,7 +574,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
