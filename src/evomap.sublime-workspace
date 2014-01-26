@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"amf",
+				"AMFObject"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"DESERIAL",
+				"deserialize"
+			],
+			[
+				"readA",
+				"readAmf3Object"
+			],
+			[
 				"data",
 				"dataSource"
 			],
@@ -80,34 +100,74 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/John/Documents/minbash/src/General/FpsCounter.as",
+			"file": "/C/Users/John/Documents/php/Evo_account/decode.php",
 			"settings":
 			{
-				"buffer_size": 2507,
+				"buffer_size": 963,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/John/Documents/minbash/src/General/Input.as",
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/io/AMFBaseDeserializer.php",
 			"settings":
 			{
-				"buffer_size": 7334,
+				"buffer_size": 11031,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/John/Desktop/Injector/settings.xml",
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/ClassLoader.php",
 			"settings":
 			{
-				"buffer_size": 881,
+				"buffer_size": 2331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Gateway.php",
+			"settings":
+			{
+				"buffer_size": 11221,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Config.php",
+			"settings":
+			{
+				"buffer_size": 3536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/php/php.ini",
+			"settings":
+			{
+				"buffer_size": 76548,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/John/Desktop/Pbot/de.bat",
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/Deserializer.php",
 			"settings":
 			{
-				"buffer_size": 36,
+				"buffer_size": 30149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/John/Documents/php/AMF/Amfphp/Core/Amf/Serializer.php",
+			"settings":
+			{
+				"buffer_size": 35889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/io/AMFBaseSerializer.php",
+			"settings":
+			{
+				"buffer_size": 10324,
 				"line_ending": "Windows"
 			}
 		}
@@ -152,6 +212,18 @@
 	},
 	"file_history":
 	[
+		"/C/Users/John/Documents/php/Evo_account/core2/amf/io/AMFSerializer.php",
+		"/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Common/IDeserializedRequestHandler.php",
+		"/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Common/ClassFindInfo.php",
+		"/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Common/IDeserializer.php",
+		"/C/Users/John/Documents/minbash/src/General/FpsCounter.as",
+		"/C/Users/John/Documents/minbash/src/General/Input.as",
+		"/C/Users/John/Desktop/Injector/settings.xml",
+		"/C/xampp/php/php.ini",
+		"/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/Handler.php",
+		"/C/Users/John/Documents/php/AMF/Amfphp/ClassLoader.php",
+		"/C/Users/John/Desktop/ZBOT v8.3/Extentions/special extention.crx",
+		"/C/Users/John/Desktop/Pbot/de.bat",
 		"/C/Blaze_master/blazeserver/etc/blaze.boot",
 		"/C/Users/John/Documents/minbash/src/General/FRateLimiter.as",
 		"/C/Users/John/Documents/minbash/src/fl/events/ComponentEvent.as",
@@ -267,19 +339,7 @@
 		"/C/Users/John/Documents/php/Evo_account/decode.php",
 		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/C/Users/John/Documents/php/Evo_account/amfphp/core/amf/io/AMFBASESERIALIZER.PHP",
-		"/C/Users/John/Documents/php/Evo_account/amfphp/core/amf/io/AMFDeserializer.php",
-		"/C/Users/John/Desktop/ZBOT v8.3 - reversed/includes/vendor/Tesseract/tessdata/eng.inttemp",
-		"/C/Users/John/Documents/php/Evo_account/core/amf/app/Gateway.php",
-		"/C/Users/John/Documents/php/Evo_account/core/amf/io/AMFSerializer.php",
-		"/C/Users/John/Documents/php/Evo_account/core/amf/io/AMFBaseSerializer.php",
-		"/C/xampp/slimblog/public/css/bootstrap.css",
-		"/C/xampp/slimblog/templates/default/post.html",
-		"/C/xampp/slimblog/templates/default/posts.html",
-		"/C/xampp/slimblog/templates/default/base.html",
-		"/C/xampp/slimblog/templates/default/a_posts.html",
-		"/C/xampp/apache/conf/httpd.conf",
-		"/C/xampp/apache/conf/extra/proxy-html.conf",
-		"/C/xampp/apache/conf/extra/httpd-userdir.conf"
+		"/C/Users/John/Documents/php/Evo_account/amfphp/core/amf/io/AMFDeserializer.php"
 	],
 	"find":
 	{
@@ -298,6 +358,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"object",
+			"serialize",
+			"writeamf",
+			"writeamf3ob",
+			"writeamf",
+			"readamf3",
+			" \";",
+			"postData",
 			".swf",
 			"ea.com",
 			"/*",
@@ -371,90 +439,34 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/John/Documents/minbash/src/General/FpsCounter.as",
+					"file": "/C/Users/John/Documents/php/Evo_account/decode.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2507,
+						"buffer_size": 963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								914,
+								914
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ActionScript/ActionScript.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 336.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/John/Documents/minbash/src/General/Input.as",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ActionScript/ActionScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/John/Desktop/Injector/settings.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 881,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -464,31 +476,253 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/John/Desktop/Pbot/de.bat",
+					"buffer": 1,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/io/AMFBaseDeserializer.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36,
+						"buffer_size": 11031,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								4674,
+								4674
+							],
+							[
+								4714,
+								4714
+							],
+							[
+								4718,
+								4718
+							],
+							[
+								4790,
+								4790
+							],
+							[
+								4801,
+								4801
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/ClassLoader.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2331,
+								2331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Gateway.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5433,
+								5433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/php/php.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39102,
+								39102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13469.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/Deserializer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14572,
+								14576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/John/Documents/php/AMF/Amfphp/Core/Amf/Serializer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/John/Documents/php/Evo_account/Amfphp/Core/Amf/io/AMFBaseSerializer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2025,
+								2025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -574,7 +808,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 183.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

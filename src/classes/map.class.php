@@ -44,7 +44,7 @@ class map {
 		$read = new \Kendo\Data\DataSourceTransportRead();
 		$transport = new \Kendo\Data\DataSourceTransport();
 
-		$read->url('map.php')
+		$read->url(basename($_SERVER['REQUEST_URI']))
      		 ->contentType('application/json')
      		 ->type('POST');
 
